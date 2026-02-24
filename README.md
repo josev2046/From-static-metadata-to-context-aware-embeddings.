@@ -1,5 +1,7 @@
 ## From static metadata to context-aware embeddings.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18758170.svg)](https://doi.org/10.5281/zenodo.18758170)
+
 <img width="993" height="559" alt="image" src="https://github.com/user-attachments/assets/b91f5768-dd39-4992-8bab-f198b32f9f35" />
 
 
